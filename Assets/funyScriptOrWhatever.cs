@@ -2,17 +2,17 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour
+public class funyScriptOrWhatever : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
     {
-        
+        // hilarious comment, another banger
     }
 
     // Update is called once per frame
     void Update()
     {
-        // Another funny haha commit
+        
     }
 }
