@@ -9,6 +9,7 @@ public class NewBehaviourScript : MonoBehaviour
     void Start()
     {
         Instantiate(prefab);
+        Instantiate(prefab);
     }
 
     // Update is called once per frame
