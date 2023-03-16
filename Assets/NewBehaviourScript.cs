@@ -8,6 +8,8 @@ public class NewBehaviourScript : MonoBehaviour
     void Start()
     {
         
+        // Just a comment
+        
     }
 
     // Update is called once per frame
